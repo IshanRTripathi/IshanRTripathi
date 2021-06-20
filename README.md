@@ -10,7 +10,7 @@
   </a>
    
    <a href="mailto:ishanrtripathi786@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-19soumik.rakshit96@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
+  <img src="https://img.shields.io/badge/Gmail-ishanrtripathi786@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
   </a>
   
   <a href="https://github.com/ishanrtripathi">
