@@ -6,7 +6,7 @@
 <p align="center">
    
    <a href="https://www.linkedin.com/in/ishanr/">
-      <img src="https://img.shields.io/badge/LinkedIn-Ishan-R-Tripathi-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
+      <img src="https://img.shields.io/badge/LinkedIn-IshanR-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
   </a>
    
   <a href="mailto:ishanrtripathi786@gmail.com">
