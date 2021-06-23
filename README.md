@@ -34,24 +34,24 @@
    - JavaScript, Nodejs
    - Building REST APIs using nodejs
 
-- 👬 Looking forward to collaborate on:
-   - Anything which is interesting
-
 - 💬 Reach out to me if you:
-   - need someone wo can assist on a project
    - have an idea on developing a game in Unity 
    - want to [hire me](https://drive.google.com/file/d/14Nfwebe9B73sOFR5FI-M-RbxkJh5-7nH/view?usp=sharing)
 
 - ⚡ Fun fact:
    - I play guitar and piano
    - I play all types of games ranging from chess to Assasin's Creed series 🎮
-   - I love to create small games
 
-- 📫 More details:
-   - [Portfolio website](https://ishanrtripathi.github.io/)
+<!-- ### Github Stats -->
+### ⚙️ &nbsp;GitHub Analytics
 
-### Github Stats
-
+<p align="center">
+<a href="https://github.com/ishanrtripathi">
+   <img height="200px" width="400px" alt="ishanrtripathi's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanrtripathi&theme=tokyonight"/> &ensp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishanrtripathi&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+<!-- 
 <p>
    <a href="https://img.shields.io/github/followers/ishanrtipathi?label=Follow&style=social">
       <img alt="Coverage" src="https://img.shields.io/github/followers/ishanrtripathi?label=Follow&style=social" height="25">
@@ -61,3 +61,4 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=ishanrtripathi&count_private=true&show_icons=true&count_private=true)
+ -->
