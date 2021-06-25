@@ -33,7 +33,7 @@
    - Sarahaha clone, but with a few additional features for rewarding people who give positive feedbacks.
 
 - 🌱 Things I’m currently learning:
-   - JavaScript, Nodejs
+   - JavaScript, Nodejs, Expressjs
    - Building REST APIs using nodejs
    - Java microsevices and REST APIs
    - Databases - MySQL, MongoDB, IBMDB2
