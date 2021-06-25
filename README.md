@@ -26,13 +26,17 @@
 
 ### About Me
 
-- 🔭 Things I'm currently working on:
-   - Java microsevices and REST APIs
-   - Databases - MySQL, MongoDB, IBMDB2
+- 🔭 Things I wish to work on (Feel free to ping me if you're interested in working on any of these) :
+   - Building something which reduces the knowledge gap between client and developers, something which besically records the conversation between them and prepares a documentation summary.
+   - Something similar to jira ( in progress )
+   - Online platform which serves as a mediator for home-chefs (uber for home-chefs )
+   - Sarahaha clone, but with a few additional features for rewarding people who give positive feedbacks.
 
 - 🌱 Things I’m currently learning:
    - JavaScript, Nodejs
    - Building REST APIs using nodejs
+   - Java microsevices and REST APIs
+   - Databases - MySQL, MongoDB, IBMDB2
 
 - 💬 Reach out to me if you:
    - have an idea on developing a game in Unity 
