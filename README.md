@@ -28,7 +28,7 @@
 
 - 🔭 Things I wish to work on (Feel free to ping me if you're interested in working on any of these) :
    - Building something which reduces the knowledge gap between client and developers, something which besically records the conversation between them and prepares a documentation summary.
-   - Something similar to jira ( in progress )
+   - <a href="https://github.com/IshanRTripathi/TaskScheduler"> Something similar to jira ( in progress )</a>
    - Online platform which serves as a mediator for home-chefs (uber for home-chefs )
    - Sarahaha clone, but with a few additional features for rewarding people who give positive feedbacks.
 
