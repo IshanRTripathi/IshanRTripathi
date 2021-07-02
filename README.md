@@ -28,7 +28,7 @@
 
 - 🔭 Things I wish to work on (Feel free to ping me if you're interested in working on any of these) :
    - Building something which reduces the knowledge gap between client and developers, something which basically records the conversation between them and prepares a documentation summary. I've seen a ML model which does that, will have to check.
-   - <a href="https://github.com/IshanRTripathi/TaskScheduler"> Something similar to jira ( in progress )</a>
+   - <a href="https://github.com/IshanRTripathi/TaskScheduler"> REST based application similar to jira ( in progress )</a>
    - With the lockdown, there has been a surge in people who have started cooking at home and serving orders. There should be an online platform which serves as a mediator between home-chefs and customers ( uber for home-chefs )
    - Sarahaha clone, but with a few additional features for rewarding people who give positive feedbacks.
    - Create a programming language specifically for coding, removing boilerplate stuffs, ex- we need to traverse a list and update the count of each character for creating a frequency map , creating a prefix sum array, etc. 
