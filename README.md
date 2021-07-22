@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to  <a href="https://ishanrtripathi.github.io/">Ishan R Tripathi's</a> GitHub</h1> 
-<h3 align="center">Software Development Engineer currently at Morgan Stanley</h3> 
+<h3 align="center">Software Development Engineer previously at Morgan Stanley</h3> 
 
 <br>
 
