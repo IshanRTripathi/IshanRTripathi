@@ -56,6 +56,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishanrtripathi&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/ishanrtripathi/ishanrtripathi/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <!-- 
 <p>
    <a href="https://img.shields.io/github/followers/ishanrtipathi?label=Follow&style=social">
