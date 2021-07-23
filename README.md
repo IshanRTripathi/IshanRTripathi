@@ -62,7 +62,7 @@
   <img src="https://github.com/ishanrtripathi/ishanrtripathi/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<!-- 
+<!--  
 <p>
    <a href="https://img.shields.io/github/followers/ishanrtipathi?label=Follow&style=social">
       <img alt="Coverage" src="https://img.shields.io/github/followers/ishanrtripathi?label=Follow&style=social" height="25">
