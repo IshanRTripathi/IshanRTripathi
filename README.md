@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to  <a href="https://ishanrtripathi.github.io/">Ishan R Tripathi's</a> GitHub</h1> 
-<h3 align="center">Software Development Engineer at Morgan Stanley</h3> 
+<h3 align="center">Engineer at Falabella, ex Morgan Stanley</h3> 
 
 <br>
 
@@ -45,7 +45,7 @@
 
 - ⚡ Fun fact:
    - I play guitar and piano
-   - I play all types of games ranging from chess to Assasin's Creed series 🎮
+   - I play all types of games ranging from chess to Assasin's Creed series to CSGo 🎮
 
 <!-- ### Github Stats -->
 ### ⚙️ &nbsp;GitHub Analytics
