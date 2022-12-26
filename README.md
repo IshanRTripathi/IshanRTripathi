@@ -2,7 +2,6 @@
 <h3 align="center">Engineer at Falabella, ex Morgan Stanley</h3> 
 
 <br>
-
 <p align="center" >
    
    <a href="https://www.linkedin.com/in/ishanr/">
